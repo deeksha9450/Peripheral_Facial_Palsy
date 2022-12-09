@@ -5,7 +5,8 @@ It can be categorized into two types based on the location of the casual patholo
 Central facial palsy:  Due to damage above the facial nucleus 
 Peripheral facial palsy:  Due to damage below the facial nucleus, there are differ 
 
-#Benefits of Early detection 
+Benefits of Early Detection 
+
 Facial Paralysis does not affect only movement of facial activities but also affects the mental health which includes Social Alienation, Depression, Emotional vulnerability due to loss of beauty. It’s very important to detect facial paralysis on its early stage so that it can be recovered before the fall of its physical as well as mental damage.  
 1)Regular monitoring will help in early recovery
 2)Tracking the recovery rate 
