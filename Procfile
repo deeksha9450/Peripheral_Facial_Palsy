@@ -1,0 +1,1 @@
+web: gunicorn facial_paralysis_app:app 
