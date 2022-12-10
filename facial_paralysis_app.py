@@ -10,7 +10,7 @@ from flask import Flask, request, render_template
 # model = pickle.load(open('model.pkl', 'rb')) 
 
 # Create application
-# app = Flask(__name__,template_folder='templates')
+app = Flask(__name__,template_folder='templates')
 
 # Bind home function to URL
 @app.route('/')
