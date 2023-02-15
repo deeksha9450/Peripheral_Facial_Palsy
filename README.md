@@ -5,6 +5,8 @@ It can be categorized into two types based on the location of the casual patholo
 Central facial palsy:  Due to damage above the facial nucleus 
 Peripheral facial palsy:  Due to damage below the facial nucleus, there are differ 
 
+
+
 ***************************__Benefits of Early Detection__****************************** 
 
 Facial Paralysis does not affect only movement of facial activities but also affects the mental health which includes Social Alienation, Depression, Emotional vulnerability due to loss of beauty. It’s very important to detect facial paralysis on its early stage so that it can be recovered before the fall of its physical as well as mental damage.  
@@ -21,6 +23,7 @@ diabetes
 hypertension (high blood pressure)
 obesity
 upper respiratory infection, as  common cold or the flu
+
 
 ************************************__Technology to be Used__*********************************
 The face keypoint detection technology is used in this filter application .The marking of important areas of the face, such as the eyes, corners of the mouth, and nose, that are relevant for a variety of tasks, such as face filters, emotion recognition, and pose recognition, using convolutional neural network and computer vision techniques to perform facial Keypoint detection.
